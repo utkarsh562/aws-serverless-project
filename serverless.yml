@@ -1,5 +1,5 @@
-org: trainwithshubham
-app: testing-end-to-end
+org: utk562
+app: serverless-taskmaster-aws-app
 service: serverless-taskmaster-aws-app
 frameworkVersion: '3'
 
